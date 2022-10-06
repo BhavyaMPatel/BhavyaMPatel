@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bhavya200392
+                                                                       HI 👋 I AM BHAVYA M PATEL
+_________________________________________________________________________________________________________________________________________________________________________
 - 👀 I’m interested in Web-developing ,Programming , Art ,yoga
 - 🌱 I’m currently learning Full Stack Web developing
 - 📫 you can follow me on linkedin - https://www.linkedin.com/in/bhavya-patel-564286223
