@@ -4,13 +4,15 @@
 
 - 🔭 I’m currently working on **NcertBookWorld**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **tailwindcss,react**
+- 💬 Fell Free To Ask me about **Frontend and Backend Technologies**
 
-- 📫 How to reach me **bhavyapatel4012@gmail.com**
+- 📫 How to reach me **bhavyapatel4076@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFNVi9GnxA/9_YxMeqgWXMiJjI2EoB6Lw/view?utm_content=DAFNVi9GnxA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu](https://www.canva.com/design/DAFNVi9GnxA/9_YxMeqgWXMiJjI2EoB6Lw/view?utm_content=DAFNVi9GnxA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+- 🕵️ Check Out My Website **https://ncertbookworlds.web.app/**
+
+- 📄 Know about my experiences **https://t.ly/TTcL**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
