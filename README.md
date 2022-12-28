@@ -12,7 +12,7 @@
 
 - 🕵️ Check Out My Website **https://ncertbookworlds.web.app/**
 
-- 📄 Know about my experiences **https://t.ly/TTcL**
+- 📄 Know about my experiences **https://bit.ly/BhavyaPatelResume**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
