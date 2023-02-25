@@ -8,7 +8,7 @@
 
 - 💬 Fell Free To Ask me about **Frontend and Backend Technologies**
 
-- 📫 How to reach me **bhavyapatel4076@gmail.com**
+- 📫 How to reach me **bhavyapatel4012@gmail.com**
 
 - 🕵️ Check Out My Website **https://ncertbookworlds.web.app/**
 
