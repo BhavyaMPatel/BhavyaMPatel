@@ -2,7 +2,7 @@
 Hey' I am Bhavya Patel
 ```
 ```
-Exploring MERNSTACK,DataScience,AI/ML,CP
+Exploring World of CS
 
 Ask Me About Frontend and Backend Technologies And CP
 
