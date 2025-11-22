@@ -4,13 +4,10 @@ Hey' I am Bhavya Patel
 ```
 Exploring World of CS
 
-Ask Me About Frontend and Backend Technologies And CP
-
 Reach out to me bhavyapatel4012@gmail.com
 
 My Website https://bhavyapatel.vercel.app
 
-My Experiences bit.ly/BhavyaMPatelExp
 ```
 
 ##  Socials :
